@@ -1,2 +1,3 @@
 # Akash-Kumar-Prajapati
 I believe I am fit for this role because I combine the solid technical foundation with a passion for the innovation. During my M.Tech in VLSI Design at NIT Jalandhar, I have gained the strong hands on experience with Verilog, Cadence Virtuoso, Synopsys VCS. I also learned basics of System Verilog and TCL which is mainly used in the industries. I am comfortable to work with team. I stay excited to work on the new tools and quickly adapt the methods. After my technical skills, I have a problem solving and positive mindset which is importanr in research and development. Also, I am very excited for this opportunity to work on the technology.
+[Akash_Resume_.pdf](https://github.com/user-attachments/files/21698310/Akash_Resume_.pdf)
